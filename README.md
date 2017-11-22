@@ -5,7 +5,7 @@ It is based on the viva plugin for Opencart 2.3, just adjusted for the new versi
 ----
 To connect the plugin with your e-commerce platform and Vivawallet you would have to create a new Payment Source in your Vivawallet business account.
 
-You can create the new Payment Source from the menu My Sales - Payment Sources - New Website/App.<br
+You can create the new Payment Source from the menu My Sales - Payment Sources - New Website/App.<br>
 Code - use this code in your plugin<br>
 Source Name - provide a logic name here<br>
 Linked Wallet - link the payment source to the wallet you want to use with it<br>

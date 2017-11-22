@@ -1,13 +1,19 @@
 This plugin enables viva payments via Redirection method in Opencart 3.0. 
 It is based on the viva plugin for Opencart 2.3, just adjusted for the new version of Opencart: https://github.com/VivaPayments/API/tree/master/Plugins/opencart/Opencart%202.3
+
 The same instructions apply here as well therefore.
 
 ----
 To connect the plugin with your e-commerce platform and Vivawallet you would have to create a new Payment Source in your Vivawallet business account.
+
 You can create the new Payment Source from the menu My Sales - Payment Sources - New Website/App.
+
 Code - use this code in your plugin
+
 Source Name - provide a logic name here
+
 Linked Wallet - link the payment source to the wallet you want to use with it
+
 Protocol - in case your e-commerce platform uses SSL on the checkout select https, otherwise use https
 Integration method - redirection
 Company Logo - your png company logo to display on the Vivawallet payment page

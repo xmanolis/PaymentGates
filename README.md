@@ -19,8 +19,8 @@ Advanced Configuration - usually no need to make any changes here<br>
 Wait until Vivawallet has activated your newly created Payment Source before activating the plugin in your e-commerce platform.<br>
 
 INSTALLATION of the plugin:<br>
-1a) Extract the vivawallet.ocmod.zip and upload the files from the upload directory to their corresponding location on the server with ftp/ssh.<br>
-1b) Or use the extension installer, click the Upload button and select the vivawallet.ocmod.zip package.<br>
+1a) Extract the vivawallet_opencart_30.zip and upload the files from the upload directory to their corresponding location on the server with ftp/ssh.<br>
+1b) Or use the extension installer, click the Upload button and select the vivawallet_opencart_30.zip package.<br>
 2. Overwrite files/folders as necessary (no core opencart files will be overwritten)<br>
 3. Login to the Open Cart admin section and go to Extensions > Payments (from dropdown)<br>
 4. Find Vivawallet in the list of extensions<br>
